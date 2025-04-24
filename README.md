@@ -5,7 +5,9 @@ sudo apt update && sudo apt install -y \
     libgflags-dev \
     nlohmann-json3-dev
     
-    
+Structure
+Home/ros2_ws/src
+Put zip in there
     
 cd ~/ros2_ws  
 
